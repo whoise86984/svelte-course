@@ -1,5 +1,7 @@
 # svelte-course
 
+## Project Overview
+
 This is a practice project for learning Svelte. It includes various examples and projects to help you get started.
 
 ## Features
